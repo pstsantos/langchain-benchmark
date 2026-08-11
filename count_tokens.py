@@ -37,7 +37,7 @@ ENCODING_NAME = "cl100k_base"
 #         # Skip anything that isn't a regular file (e.g. .DS_Store, subfolders).
 #         if not os.path.isfile(file_path) or file_path.endswith(".DS_Store"):
 #             continue
-#
+#echo ".DS_Store" >> .gitignore
 #         with open(file_path, encoding="utf-8", errors="ignore") as f:
 #             text = f.read()
 #
