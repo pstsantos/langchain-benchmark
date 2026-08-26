@@ -14,7 +14,7 @@ An answer is correct if it is traceable to a specific page in the corpus.
 
 - **Source:** LangChain (Python) documentation — Build section, core components, and advanced usage — plus LangGraph, including related frontend/UI integration pages.
 - **Location:** [`corpus/`](corpus/)
-- **Size:** 88 files, ~640,750 tokens 
+- **Size:** 88 files, ~644,227 tokens 
 - **Locked/frozen:** August 10, 2026, 12:00 PM 
 
 
@@ -33,4 +33,4 @@ python3 count_tokens.py
 
 ## Question Set
 
-25–35 questions total, roughly 1 per original corpus page, spanning normal retrieval and all three trap categories.
+100–120 questions total, roughly 1 per original corpus page, spanning normal retrieval and all three trap categories.
